@@ -1,129 +1,76 @@
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="350" alt="Dev Typing" />
+</p>
 
-<!-- PREMIUM DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Khadim%20Mbaye&fontSize=50&fontColor=06b6d4&animation=twinkling" width="100%" alt="Header" />
-
-<br/><br/>
-
-<!-- THE TYPING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="350" alt="Dev Typing" />
-
-<br/><br/>
-
-<!-- TYPING SVG -->
-<a href="https://github.com/khadimmbaye0">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Passionate+about+Machine+Learning;Data+Engineering+%26+Cloud+Architecture;Building+with+Purpose;One+line+of+code+at+a+time" alt="Typing SVG" />
-</a>
-
-<br/>
+<h3 align="center"><code>org@github ~ $ whoami</code></h3>
 
 <p align="center">
-  <samp>Welcome to the central hub for my academic and personal projects.<br/>
-  Classroom theory meets real-world engineering.</samp>
+  <img src="./org-card.svg" width="860" alt="ACADEMIC AND PERSONAL PROJECTS — whoami" />
 </p>
 
-</div>
+<br>
 
----
+<h3 align="center"><code>org@github ~ $ ./projects.sh</code></h3>
 
-## 👨‍💻 About Me
+<!-- PROJECTS:START -->
 
-<table width="100%" align="center">
-<tr>
-<td width="60%">
+#### Data Engineering
 
-```python
-class ACADEMIC_PERSONAL_PROJECTS:
-    def __init__(self):
-        self.owner = "Khadim Mbaye"
-        self.role = "AI & Big Data Student"
-        self.school = "Ecole Superieure Polytechnique de Dakar"
-        self.location = "Dakar, Senegal"
-        self.languages = ["Python", "Java", "JavaScript", "SQL"]
+- **[APACHE_AIRFLOW_WORKS](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/APACHE_AIRFLOW_WORKS)** — NYC Taxi Data Pipeline built with Apache Airflow for the DataTalksClub Data Engineering Zoomcamp. Adapted from Kestra + GCP to Airflow + Oracle Cloud (Object Storage + ADW). Full ELT: extract 40M+ NYC taxi rows, …
 
-    def what_is_this(self):
-        return [
-            "Academic coursework & MIT lectures",
-            "Personal projects & zoomcamp builds",
-            "AI experiments & data pipelines",
-            "Learning by breaking and fixing"
-        ]
+#### AI Engineering & Agents
 
-    def philosophy(self):
-        return "Classroom theory meets real-world engineering."
-```
+- **[NeuralPulse](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/NeuralPulse)** — Pipeline automatisé de digest d'actualités IA. Scrape 12 sources majeures (OpenAI, Anthropic, DeepMind, Mistral...) chaque samedi, déduplique, résume via Groq LLM (qwen3.8-27b) avec un commentaire pédagogique en …
+- **[langchain4j-quickstart](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/langchain4j-quickstart)** — Chatbot terminal en Java avec LangChain4j et Moonshot AI (Kimi K3). Premier projet du cours LangChain4j — Du zero au hero. Apprends a integrer un LLM dans une application Java.
+- **[Customer-Support-Agent](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Customer-Support-Agent)** — Projet d’apprentissage réalisé avec Cognitive Class : création d’un agent de support client avec PydanticAI et Pydantic. Le projet explore les agents IA, la validation des sorties structurées, les prompts few-shot, …
+- **[AI-DEV-TOOLS-ZOOMCAMP-HOMEWORK_1](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/AI-DEV-TOOLS-ZOOMCAMP-HOMEWORK_1)** — `Python`
 
-</td>
-<td width="40%" align="center">
+#### Machine Learning & AI
 
-<!-- DOPE ANIME STUDYING GIF -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" class="glow" width="90%" style="border-radius: 10px;" alt="Anime Studying" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ACADEMIC-AND-PERSONAL-PROJECTS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" class="anime-float" style="animation-delay: 0.5s;" alt="GitHub Stats" />
+- **[Homework-3-Machine-Learning-for-Classification](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-3-Machine-Learning-for-Classification)** — `Jupyter Notebook`
+- **[Google-DeepMind-AI-Research-Foundations-solutions](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Google-DeepMind-AI-Research-Foundations-solutions)** — Coursework, lab solutions, and research notes from the full Google DeepMind AI Research Foundations learning path.
+- **[California-Housing-Prices](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/California-Housing-Prices)** — `Jupyter Notebook`
+- **[Homework-2-Machine-Learning-for-Regression](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-2-Machine-Learning-for-Regression)** — Homework 2 of the Machine Learning Zoomcamp 2026 (DataTalks Club). Build a linear regression model to predict car fuel efficiency (MPG). Covers missing value imputation, Ridge regularization, seed sensitivity …
+- **[Homework-1-Introduction-to-Machine-Learning](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-1-Introduction-to-Machine-Learning)** — First homework for Machine Learning Zoomcamp 2026 (DataTalks Club). Explores Pandas & NumPy fundamentals: data exploration, missing value imputation, and linear algebra with a vehicle fuel efficiency dataset (10K …
+- **[MIT_WEEK7_Neural_Network_II](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/MIT_WEEK7_Neural_Network_II)** — Solutions and notes for Week 7 (Neural Networks II) of MITx 6.036, including the homework notebook, Python implementations of Linear, Tanh, ReLU and SoftMax layers, NLL loss, SGD training routines, reproducible …
+- **[MIT_WEEK6_Neural_Network_I](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/MIT_WEEK6_Neural_Network_I)** — Solutions and notes for Week 6 (Neural Networks I) of MITx 6.036, including the homework notebook, Python implementations, understanding concepts behind Neural Networks.
+- **[MIT_WEEK5_Regression](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/MIT_WEEK5_Regression)** — `Jupyter Notebook`
+- **[MIT_WEEK4_Margin_Maximization](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/MIT_WEEK4_Margin_Maximization)** — `Jupyter Notebook`
+- **[EDA-WITH-PYTHON](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/EDA-WITH-PYTHON)** — `Jupyter Notebook`
 
-</td>
-</tr>
-</table>
+#### Full-Stack & Apps
 
----
+- **[tontine-pilot](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/tontine-pilot)** — AI copilot for community tontines — AWS Zero to Shipped hackathon in the AWS Skills Builder Center.
+- **[TECHBLOCKS](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TECHBLOCKS)** — Documentation collaborative orientée développeurs — éditeur de blocs (Markdown, Code, Mermaid, API, Callout), autosave, historique de révisions, JWT. React 19 · Spring Boot 3.5 · PostgreSQL 16. 100% vibe coded — …
+- **[IPDL_v2](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/IPDL_v2)** — Projet de classe initialement réalisé en groupe en classe avec des codes donnes par le prof avec GitLab comme dépôt distant, SénSanté Pro est repris de ma propre initiative et développé individuellement sur GitHub …
+- **[TRACE](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TRACE)** — `JavaScript`
+- **[LeagueScore](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/LeagueScore)** — Football live-score app vibe-coded for the AI Dev Tools Zoomcamp 2026. Full-stack with React 19, TypeScript, FastAPI, and SQLAlchemy. Includes live scores, match center, league standings, admin console, and …
 
-## ⚡ Tech Stack
+#### Learning & Foundations
 
-<div align="center">
+- **[SCALA-BANK](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/SCALA-BANK)** — A learning project. I'm building a command-line banking system in Scala 3 to actually apply what I learn in class — case classes, pattern matching, Either, enums, for comprehensions. Everything is immutable, …
 
-<p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,py,c,java,scala,md&theme=dark" class="anime-float" />
+<!-- PROJECTS:END -->
 
-<br/><br/>
+<br>
 
-<p><b>Frameworks, Cloud & Big Data</b></p>
+<h3 align="center"><code>org@github ~ $ ./stack.sh</code></h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,aws&theme=dark" class="anime-float" style="animation-delay: 0.2s;" />
-</p>
-<p align="center" class="anime-float" style="animation-delay: 0.4s;">
-  <img height="48" src="https://cdn.simpleicons.org/apache/06b6d4" alt="Apache" /> &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" /> &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/apachehadoop/FFCE00" alt="Apache Hadoop" /> &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" /> &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/openstack/ED1944" alt="OpenStack" />
+  <img src="./stack.svg" width="860" alt="Tech stack — languages, frameworks, data/ML, tools" />
 </p>
 
-<br/>
+<br>
 
-<p><b>Data & Machine Learning</b></p>
+<h3 align="center"><code>org@github ~ $ ./links.sh</code></h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,tensorflow,pytorch,scikitlearn&theme=dark" class="anime-float" style="animation-delay: 0.6s;" />
-</p>
-<p align="center" class="anime-float" style="animation-delay: 0.8s;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" alt="NumPy" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" width="48" alt="Matplotlib" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" width="48" alt="Keras" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48" />
+  <a href="https://github.com/khadimmbaye0"><img src="./socials/github.svg" width="46" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/khadim-mbaye-3ba585305/"><img src="./socials/linkedin.svg" width="46" alt="LinkedIn"/></a>
+  <a href="https://x.com/khadimmb004"><img src="./socials/x.svg" width="46" alt="X"/></a>
+  <a href="https://www.instagram.com/khadim_v.0.4/"><img src="./socials/instagram.svg" width="46" alt="Instagram"/></a>
 </p>
 
-<br/>
-
-<p><b>Developer Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,postman,linux,bash&theme=dark" class="anime-float" style="animation-delay: 1.0s;" />
+  <a href="mailto:khadimmbaye@esp.sn"><code>khadimmbaye@esp.sn</code></a>
 </p>
-<p align="center" class="anime-float" style="animation-delay: 1.2s;">
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" width="48" height="48" />
-</p>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" class="anime-float" alt="Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
-</div>

@@ -1,0 +1,40 @@
+name: Update projects list
+
+# Refreshes the auto-generated projects section (and the whoami card's repo
+# count) from real public GitHub data. Daily cron + on push + on demand.
+
+"on":
+  schedule:
+    - cron: "23 6 * * *"   # ~06:23 UTC every day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh projects section (real GitHub data)
+        run: python3 scripts/update_projects.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh whoami card (repo count)
+        run: python3 scripts/make_org_card.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh projects [skip ci]"
+          file_pattern: "profile/README.md profile/org-card.svg data/repos.json"
