@@ -391,5 +391,34 @@
   "pushed_at": "2026-10-08T15:06:42Z",
   "fork": false,
   "topics": []
+ },
+ {
+  "name": "Aether-Archive",
+  "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive",
+  "description": "A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.",
+  "language": "Java",
+  "pushed_at": "2026-10-16T04:03:31Z",
+  "fork": false,
+  "topics": [
+   "datatalksclub",
+   "dnd-kit",
+   "final-project",
+   "framer-motion",
+   "full-stack",
+   "glassmorphism",
+   "inter",
+   "java-21",
+   "local-first",
+   "playfair-display",
+   "react",
+   "scrum",
+   "spring-boot",
+   "sqlite",
+   "tailwindcss",
+   "typescript",
+   "vibe-coding",
+   "vite",
+   "zoomcamp"
+  ]
  }
 ]

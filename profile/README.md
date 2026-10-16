@@ -40,6 +40,7 @@
 
 #### Full-Stack & Apps
 
+- **[Aether-Archive](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive)** — A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.
 - **[tontine-pilot](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/tontine-pilot)** — AI copilot for community tontines — AWS Zero to Shipped hackathon in the AWS Skills Builder Center.
 - **[TECHBLOCKS](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TECHBLOCKS)** — Documentation collaborative orientée développeurs — éditeur de blocs (Markdown, Code, Mermaid, API, Callout), autosave, historique de révisions, JWT. React 19 · Spring Boot 3.5 · PostgreSQL 16. 100% vibe coded — …
 - **[IPDL_v2](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/IPDL_v2)** — Projet de classe initialement réalisé en groupe en classe avec des codes donnes par le prof avec GitLab comme dépôt distant, SénSanté Pro est repris de ma propre initiative et développé individuellement sur GitHub …
