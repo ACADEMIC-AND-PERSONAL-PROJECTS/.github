@@ -396,8 +396,8 @@
   "name": "Aether-Archive",
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive",
   "description": "A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.",
-  "language": "Java",
-  "pushed_at": "2026-10-16T04:03:31Z",
+  "language": "TypeScript",
+  "pushed_at": "2026-10-17T08:05:14Z",
   "fork": false,
   "topics": [
    "datatalksclub",
