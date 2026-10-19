@@ -354,36 +354,6 @@
   ]
  },
  {
-  "name": "tontine-pilot",
-  "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/tontine-pilot",
-  "description": "AI copilot for community tontines — AWS Zero to Shipped hackathon in the AWS Skills Builder Center.",
-  "language": "TypeScript",
-  "pushed_at": "2026-09-28T01:35:22Z",
-  "fork": false,
-  "topics": [
-   "ai-agents",
-   "aws",
-   "aws-hackathon",
-   "aws-skill-builder",
-   "chatbot",
-   "ci-cd",
-   "cloud",
-   "community",
-   "deployment",
-   "fullstack",
-   "github-actions",
-   "hackathon-project",
-   "muse",
-   "nextjs",
-   "opencode",
-   "skills-builder",
-   "social-good",
-   "tools",
-   "typescript",
-   "vibe-coding"
-  ]
- },
- {
   "name": "Homework-3-Machine-Learning-for-Classification",
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-3-Machine-Learning-for-Classification",
   "description": null,
@@ -397,7 +367,7 @@
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive",
   "description": "A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.",
   "language": "TypeScript",
-  "pushed_at": "2026-10-17T18:20:03Z",
+  "pushed_at": "2026-10-19T04:32:40Z",
   "fork": false,
   "topics": [
    "datatalksclub",
