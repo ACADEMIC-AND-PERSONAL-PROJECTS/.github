@@ -48,6 +48,7 @@
 
 #### Learning & Foundations
 
+- **[Homework-4-Evaluation](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-4-Evaluation)** — `Jupyter Notebook`
 - **[SCALA-BANK](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/SCALA-BANK)** — A learning project. I'm building a command-line banking system in Scala 3 to actually apply what I learn in class — case classes, pattern matching, Either, enums, for comprehensions. Everything is immutable, …
 
 <!-- PROJECTS:END -->

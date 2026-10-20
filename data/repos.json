@@ -367,7 +367,7 @@
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive",
   "description": "A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.",
   "language": "TypeScript",
-  "pushed_at": "2026-10-19T04:32:40Z",
+  "pushed_at": "2026-10-19T18:01:51Z",
   "fork": false,
   "topics": [
    "datatalksclub",
@@ -390,5 +390,14 @@
    "vite",
    "zoomcamp"
   ]
+ },
+ {
+  "name": "Homework-4-Evaluation",
+  "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Homework-4-Evaluation",
+  "description": null,
+  "language": "Jupyter Notebook",
+  "pushed_at": "2026-10-19T18:37:48Z",
+  "fork": false,
+  "topics": []
  }
 ]
