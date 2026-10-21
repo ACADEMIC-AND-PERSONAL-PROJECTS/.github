@@ -40,8 +40,8 @@
 
 #### Full-Stack & Apps
 
-- **[Aether-Archive](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive)** — A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.
 - **[TECHBLOCKS](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TECHBLOCKS)** — Documentation collaborative orientée développeurs — éditeur de blocs (Markdown, Code, Mermaid, API, Callout), autosave, historique de révisions, JWT. React 19 · Spring Boot 3.5 · PostgreSQL 16. 100% vibe coded — …
+- **[Aether-Archive](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive)** — A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.
 - **[IPDL_v2](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/IPDL_v2)** — Projet de classe initialement réalisé en groupe en classe avec des codes donnes par le prof avec GitLab comme dépôt distant, SénSanté Pro est repris de ma propre initiative et développé individuellement sur GitHub …
 - **[TRACE](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TRACE)** — `JavaScript`
 - **[LeagueScore](https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/LeagueScore)** — Football live-score app vibe-coded for the AI Dev Tools Zoomcamp 2026. Full-stack with React 19, TypeScript, FastAPI, and SQLAlchemy. Includes live scores, match center, league standings, admin console, and …
