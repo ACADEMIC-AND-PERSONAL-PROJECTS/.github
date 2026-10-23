@@ -333,7 +333,7 @@
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/TECHBLOCKS",
   "description": "Documentation collaborative orientée développeurs — éditeur de blocs (Markdown, Code, Mermaid, API, Callout), autosave, historique de révisions, JWT. React 19 · Spring Boot 3.5 · PostgreSQL 16. 100% vibe coded — projet d'application des certifs Google AI (Coursera) et Claude Code in Action (Anthropic).",
   "language": "TypeScript",
-  "pushed_at": "2026-10-22T02:25:14Z",
+  "pushed_at": "2026-10-23T07:31:35Z",
   "fork": false,
   "topics": [
    "ai-agents",
@@ -367,7 +367,7 @@
   "html_url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Aether-Archive",
   "description": "A local-first, mobile-first digital sanctuary for aesthetic photos and monthly 6-picture dumps. Spring Boot + React + SQLite, Dark Glassmorphism, zero external requests.",
   "language": "TypeScript",
-  "pushed_at": "2026-10-19T18:01:51Z",
+  "pushed_at": "2026-10-22T22:27:56Z",
   "fork": false,
   "topics": [
    "datatalksclub",
